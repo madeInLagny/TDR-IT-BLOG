@@ -1,0 +1,51 @@
+---
+# Add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+blockquote {
+	border-left: 4px solid #358f9c;
+}
+
+a {
+	color: #358f9c;
+}
+
+.btn.follow {
+	border-color: #358f9c;
+	color: #358f9c;
+}
+
+.btn.subscribe {
+	background-color: #358f9c;
+	border-color: #358f9c;
+}
+
+.alertbar input[type="submit"] {
+	background-color: #358f9c;
+	border: 1px solid #358f9c;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #358f9c;
+	border-color: #358f9c;
+}
+
+@media (min-width: 768px) {
+	.postIllustration {
+			width: 50%;
+			margin: 3rem auto!important;
+	}
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax",
+    "starsnonscss"
+;
