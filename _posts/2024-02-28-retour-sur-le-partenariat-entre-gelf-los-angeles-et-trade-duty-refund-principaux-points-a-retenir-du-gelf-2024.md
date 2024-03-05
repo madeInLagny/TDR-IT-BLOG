@@ -8,7 +8,7 @@ comments: false
 ---
 >Trade Duty Refund, broker dedicato alle restituzioni dei dazi doganali, ha trascorso alcuni giorni nella soleggiata Los Angeles, in California, la scorsa settimana, come uno degli sponsor del Global eCommerce Leaders Forum, o GELF, dove alcuni dei migliori aziende nel mondo retail, guru dell'eCommerce ed esperti di commercio internazionale della "west coast" si sono riuniti per affrontare temi legati all'eCommerce internazionale.
 
-Per Trade Duty Refund era presente il fondatore e CEO, Jocelyn Montpert. Ha condiviso alcuni preziosi punti discussi durante la conferenza di quest'anno.
+Per [Trade Duty Refund] (https://tradedutyrefund.com) era presente il fondatore e CEO, [Jocelyn Montpert](https://tradedutyrefund.com/jocelyn-montpert.html). Ha condiviso alcuni preziosi punti discussi durante la conferenza di quest'anno.
 
 ## Diventare globale, pensare e agire a livello locale attraverso le alleanze.
 L'eCommerce apre molte porte e abbatte le barriere quando si tratta di espandere la base dei consumatori a livello globale. Le vendite globali di eCommerce raggiungeranno quest'anno i 6,3 trilioni di dollari, senza segni di rallentamento ([Shopify Global eCommerce Sales Growth Report](https://www.shopify.com/blog/global-ecommerce-sales)). 
