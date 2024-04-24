@@ -2,7 +2,7 @@
 layout: post
 title:  "Arrivederci Los Angeles da Trade Duty Refund: i punti chiave della GELF 2024"
 description: Il Global Ecommerce Leaders Forum (GELF) si è concluso la scorsa settimana a Los Angeles e Trade Duty Refund era entusiasta di partecipare come sponsor, partecipante ed esperto del commercio internazionale e della logistica. In questo articolo, Jocelyn Montpert, fondatore di Trade Duty Refund, riassume i punti principali della fiera.
-categories: [ Globalizzazione, Supply chain resiliente, Commercio transfrontaliero, Normative doganali, Restituzione dei dazi]
+categories: [ globalizzazione, supply chain resiliente, commercio transfrontaliero, normative doganali, restituzione dei dazi]
 image: assets/images/20240228-1.webp
 comments: false
 ---

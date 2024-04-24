@@ -2,7 +2,7 @@
 layout: post
 title:  "La parola agli esperti: 5 domande a Jocelyn Montpert sulla riforma doganale dell'UE"
 description: Scopri le nuove normative doganali UE 2023 e gestisci la logistica dei resi nell'e-commerce. Consigli di esperti da Trade Duty Refund!
-categories: [La parola agli esperti, Normative doganali UE, Commercio internazionale, E-commerce, Logistica dei resi]
+categories: [la parola agli esperti, normative doganali UE, commercio internazionale, e-commerce, logistica dei resi]
 image: assets/images/20240412-1.webp
 comments: false
 ---
